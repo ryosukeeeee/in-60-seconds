@@ -7,7 +7,7 @@
 ### きっかけ
 @snapend
 
-@fa[slack]
+@fa[slack fa-lg]
 
 <!-- 2枚目 -->
 ---
