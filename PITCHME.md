@@ -117,11 +117,13 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
     'channel': 'CP2BU7SCC',
   },
   'type': 'event_callback',
-  'authed_users': [
-    'UNND549UZ'
-  ]
+  'authed_users': ['UNND549UZ']
 }
 ```
+@snap[south span-100 text-gray text-08]
+@[2-3](tokenとapi_app_idで正当なリクエストか検証)))
+@[4-11](発生したイベントに関する情報)
+@snapend
 
 ---
 
