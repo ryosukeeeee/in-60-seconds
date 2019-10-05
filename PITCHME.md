@@ -15,7 +15,7 @@
 ---
 @title[Slackスクリーンショット]
 
-![IMAGE](assets/img/slack_home.png)
+![IMAGE](assets/img/slack_home-original.png)
 
 ---
 @title[Customize Slide Layout]
