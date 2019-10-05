@@ -112,9 +112,9 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
     'type': 'message',
     'text': '増税対応お疲れさまでした',
     'user': 'UKDKXN543',
+    'channel': 'CP2BU7SCC',
     'ts': '1570282631.000200',
     'team': 'TKT6H65TQ',
-    'channel': 'CP2BU7SCC',
   },
   'type': 'event_callback',
   'authed_users': ['UNND549UZ']
@@ -123,6 +123,10 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 @snap[north] span-100 text-gray text-08]
 @[2-3](tokenとapi_app_idで正当なリクエストか検証)))
 @[4-11](発生したイベントに関する情報)
+@[5](メッセージが投稿された))
+@[6](投稿された内容)
+@[7](メッセージを投稿した人の *ID* )
+@[8](メッセージを投稿されたチャンネルの *ID* )
 @snapend
 
 ---
