@@ -35,6 +35,15 @@
 cited from [集中力の高め方を心理学者が伝授「ディストラクター」をなくすこと](https://news.livedoor.com/article/detail/10669129/)
 @snapend
 
+<!-- 6枚目 -->
+---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+@title[All Timesの紹介]
+
+@snap[west span-80]
+- ユーザのアイコンで表示
+- スレッド形式
+@snapend
+
 ---
 @title[feature work]
 
