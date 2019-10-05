@@ -1,10 +1,10 @@
-# Let's Get Started
+# Slackアプリ All Timesについて
 
----
+---?color=linear-gradient(180deg, white 10%, #E71E60 90%)
+@snap[north span-40 h3-black]
 
-# 日本語
-
----
+### きっかけ
+@snapend
 
 ## Add Some Slide Candy
 
