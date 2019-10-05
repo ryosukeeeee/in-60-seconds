@@ -51,6 +51,15 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 - スレッド形式
 @snapend
 
+
+<!-- 7枚目 -->
+---
+@title[フロー図]
+
+@snap[center span-80]
+![FLOW](assets/img/all_times_usecase.png)
+@snapend
+
 ---
 @title[feature work]
 
