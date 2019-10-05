@@ -16,7 +16,7 @@
 ---
 @title[Slackスクリーンショット]
 
-@img[span-80 position_center](assets/img/slack_home-original.png)
+@img[span-80 position_center](assets/img/slack_home-normal.png)
 
 <!-- 4枚目 -->
 +++
