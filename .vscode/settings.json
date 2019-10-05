@@ -1,0 +1,19 @@
+{
+  "runOnSave.statusMessageTimeout": 3000,
+  "runOnSave.commands": [
+      {
+          "match": ".*\\.md$",
+          "command": "cd ${workspaceFolder} && sh update.sh",
+          "runIn": "backend",
+          "runningStatusMessage": "Compiling ${fileBasename}",
+          "finishStatusMessage": "${fileBasename} compiled"
+      },
+      {
+        "match": ".*\\.yaml$",
+        "command": "cd ${workspaceFolder} && sh update.sh",
+        "runIn": "backend",
+        "runningStatusMessage": "Compiling ${fileBasename}",
+        "finishStatusMessage": "${fileBasename} compiled"
+    },
+  ]
+}
