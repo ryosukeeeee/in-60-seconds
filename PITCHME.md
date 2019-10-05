@@ -24,7 +24,7 @@
 @img[span-100](assets/img/slack_home-original-2.png)
 
 <!-- 5枚目 -->
----
+---?color=white
 @title[ディストラクタ]
 
 @snap[midpoint span-100 cite]
