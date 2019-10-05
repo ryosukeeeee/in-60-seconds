@@ -1,14 +1,14 @@
 # Slackアプリ All Timesについて
 
----?color=linear-gradient(180deg, white 10%, #E71E60 90%)
-@snap[north span-40 h3-black]
+---
 
+@snap[north span-40 h3-black]
 ### きっかけ
 @snapend
 
 
 
----?color=linear-gradient(180deg, white 75%, black 25%)
+---
 @title[Customize Slide Layout]
 
 @snap[west span-50]
@@ -23,7 +23,7 @@
 Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
----?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+---
 @title[Add A Little Imagination]
 
 @snap[north-west h4-white]
