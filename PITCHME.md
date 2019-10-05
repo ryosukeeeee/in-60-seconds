@@ -19,7 +19,7 @@
 ## Customize the Layout
 @snapend
 
-@snap[east span-50]
+@snap[center]
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
