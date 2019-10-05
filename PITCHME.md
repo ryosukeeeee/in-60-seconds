@@ -36,6 +36,22 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 @snapend
 
 ---
+@title[feature work]
+
+@snap[north]
+まだ実装されていない機能
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-white text-09]
+- ファイルアップロードイベントの転送
+- メッセージ内のURLを展開
+@ulend
+@snapend
+
+
+<!-- 最後のスライド -->
+---
 
 @snap[center text-18]
 Have a good slack life @fa[slack]
