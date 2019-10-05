@@ -27,7 +27,7 @@
 <!-- 4枚目 -->
 +++
 @title[Slackスクリーンショット]
-ほんまか
+
 @img[span-80 position_center](assets/img/slack_home_fruid_rect.png)
 
 <!-- 5枚目 -->
