@@ -4,9 +4,9 @@ theme-background : [ "#d6dbb6"]
 # h1, h2クラスの属性
 theme-headline   : [ "Raleway", "#484848", "none" ]
 # h3, h4, h5クラスの属性
-theme-byline     : [ "Raleway", "#111111", "none" ]
+theme-byline     : [ "Raleway", "#484848", "none" ]
 # マークダウンの通常のテキストの属性
-theme-text       : [ "Ubuntu", "#212121", "none" ]
+theme-text       : [ "Ubuntu", "#484848", "none" ]
 # ハイパーリンクの色
 theme-links      : [ "#5289F7", "#5254F7" ]
 # コードブロックで使われるフォント
