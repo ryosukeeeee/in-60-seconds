@@ -8,7 +8,8 @@
 @snapend
 
 @snap[center]
-@fa[slack fa-2x]に#timesが多すぎる
+@fa[slack]に#timesが多すぎる
+全部にjoinすると・・・
 @snapend
 
 <!-- 3枚目 -->
