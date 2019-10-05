@@ -7,7 +7,7 @@
 #
 theme : template
 
-theme-background : [ "linear_gradient(180deg, white 85%, black 15%" ]
+theme-background : [ "linear_gradient(180deg, white 90%, black 10%" ]
 theme-headline   : [ "Raleway", "#5289F7", "none" ]
 theme-byline     : [ "Raleway", "#111111", "none" ]
 theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
