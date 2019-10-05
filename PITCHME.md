@@ -7,6 +7,8 @@
 ### きっかけ
 @snapend
 
+@fa[slack]
+
 <!-- 2枚目 -->
 ---
 @title[Customize Slide Layout]
