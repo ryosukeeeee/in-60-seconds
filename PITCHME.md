@@ -3,7 +3,7 @@
 
 <!-- 2枚目 -->
 ---
-@snap[north span-40 h3-black]
+@snap[north span-40]
 ### きっかけ
 @snapend
 
@@ -36,9 +36,9 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 @snapend
 
 <!-- 6枚目 -->
----?color=linear-gradient(90deg, white 30%, #D6DBB6 70%)
+---?color=linear-gradient(90deg, white 50%, #D6DBB6 50%)
 @title[All Timesの紹介]
-@snap[north span-40 h3-black]
+@snap[north span-80]
 ### All Timesについて
 @snapend
 
