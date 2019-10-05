@@ -28,11 +28,12 @@ theme-override: assets/css/PITCHME.css
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
 #
-layout : center
+# レイアウトのデフォルトを指定する
+# top-leftにすれば、@snapで位置をしてしなければtop-leftに表示される
+layout : top-left
 footnote : "published by <a href='https://twitter.com/ryosukeeeee_'>@ryosukeeeee_</a> on Oct 7, 2019"
 
-#
 # 開発中はfalseにするとスライドをブラウザでみるときにデベロップメントメニューが使えるようになる
 # 完成して公開するときはtrueにする
+# プライベートリポジトリでも、Security Published Modeで公開できるらしい（要検証）
 published : false
-
