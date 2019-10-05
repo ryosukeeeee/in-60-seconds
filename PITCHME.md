@@ -13,7 +13,9 @@
 
 <!-- 2枚目 -->
 ---
-@snap[center]
+@title[Slackスクリーンショット]
+
+@snap[north]
 ![IMAGE](assets/img/slack_home.png)
 @snapend
 
