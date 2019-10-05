@@ -25,6 +25,7 @@
 @snapend
 
 @snap[center]
+@css[image_50](50%)
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
