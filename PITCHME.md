@@ -24,20 +24,13 @@
 
 @img[span-80 position_center](assets/img/slack_home_fruid.png)
 
-<!-- 4枚目 -->
+<!-- 5枚目 -->
 +++
 @title[Slackスクリーンショット]
 
 @img[span-80 position_center](assets/img/slack_home_fruid_rect.png)
 
----
-
-@snap[center text-center text-40]
-🤔
-@snapend
-
-
-<!-- 5枚目 -->
+<!-- 6枚目 -->
 ---?color=white
 @title[ディストラクタ]
 
@@ -49,7 +42,14 @@
 cited from [集中力の高め方を心理学者が伝授「ディストラクター」をなくすこと](https://news.livedoor.com/article/detail/10669129/)
 @snapend
 
-<!-- 6枚目 -->
+<!-- 7枚目 -->
+---
+
+@snap[center text-center text-40]
+🤔
+@snapend
+
+<!-- 8枚目 -->
 ---?color=linear-gradient(90deg, white 50%, #D6DBB6 50%)
 @title[All Timesの紹介]
 @snap[north-east text-center span-50]
@@ -66,7 +66,7 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 @snapend
 
 
-<!-- 7枚目 -->
+<!-- 9枚目 -->
 ---
 @title[フロー図]
 
@@ -74,14 +74,14 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 ![FLOW](assets/img/all_times_usecase.png)
 @snapend
 
-<!-- 7-1 -->
+<!-- 10枚目 -->
 +++
 
 @snap[center text-center span-100]
 ![FLOW](assets/img/all_times_usecase-1.png)
 @snapend
 
-<!-- 7-2 -->
+<!-- 11枚目 -->
 +++
 
 @snap[center text-center span-100]
