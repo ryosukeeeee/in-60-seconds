@@ -17,7 +17,15 @@
 
 @img[span-60](assets/img/slack_home-original.png)
 
+<!-- 4枚目 -->
 ---
+@title[Slackスクリーンショット]
+
+@img[span-60](assets/img/slack_home-original-2.png)
+
+---
+
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
