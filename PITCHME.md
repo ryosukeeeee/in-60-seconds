@@ -105,6 +105,10 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 ---
 @title[event]
 
+@snap[north]
+イベントが発生したときに送れてくるJSON（一部抜粋）
+@snapend
+
 ```json
 {
   'token': '********',
