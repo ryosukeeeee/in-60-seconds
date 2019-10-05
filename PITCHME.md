@@ -142,8 +142,8 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 @title[EventHandlerの処理]
 
 @snap[west span-100]
-@ul[list-spaced-bullets text-09]
-- チャンネルIDからチェンネル名（ex. times_bengal_cat）を取得
+@ul[list-spaced-bullets text-08]
+- チャンネルIDからチャンネル名（ex. times_bengal_cat）を取得
 - ユーザーのIDからユーザー名とアイコンのURLを取得
 - #all_timesに当日の投稿がすでにあるか調べる
 - ある→スレッド形式で投稿
