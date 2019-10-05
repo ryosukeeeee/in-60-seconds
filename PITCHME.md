@@ -57,8 +57,8 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 @title[フロー図]
 
 @snap[center text-center span-100]
-うそ
-<!-- ![FLOW](assets/img/all_times_usecase.png) -->
+<!-- うそ -->
+![FLOW](assets/img/all_times_usecase.png)
 @snapend
 
 ---
