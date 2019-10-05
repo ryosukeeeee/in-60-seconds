@@ -22,7 +22,13 @@
 +++
 @title[Slackスクリーンショット]
 
-@img[span-80 position_center](assets/img/slack_home-original-2.png)
+@img[span-80 position_center](assets/img/slack_home_fruid.png)
+
+<!-- 4枚目 -->
++++
+@title[Slackスクリーンショット]
+
+@img[span-80 position_center](assets/img/slack_home_fruid_rect.png)
 
 <!-- 5枚目 -->
 ---?color=white
