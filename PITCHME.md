@@ -103,6 +103,34 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 @snapend
 
 ---
+@title[event]
+```json
+{
+  'token': '********',
+  'team_id': '********',
+  'api_app_id': '********',
+  'event': {
+    'client_msg_id': ''********'',
+    'type': 'message',
+    'text': 'くりーむしちゅー',
+    'user': 'UKDKXN543',
+    'ts': '1570282631.000200',
+    'team': 'TKT6H65TQ',
+    'channel': 'CP2BU7SCC',
+    'event_ts': '1570282631.000200',
+    'channel_type': 'channel'
+  },
+  'type': 'event_callback',
+  'event_id': 'EvNWH9CQ57',
+  'event_time': 1570282631,
+  'authed_users': [
+    'UNND549UZ'
+  ]
+}
+```
+
+---
+
 @title[feature work]
 
 @snap[north span-100]
