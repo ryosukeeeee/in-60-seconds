@@ -27,7 +27,7 @@ theme-override: assets/css/PITCHME.css
 layout : center
 
 # タイトルスライド以外に表示されるフッターの内容
-footnote : "published by <a href='https://twitter.com/ryosukeeeee_'>@ryosukeeeee_</a> on Oct 7, 2019"
+footnote : "yes published by <a href='https://twitter.com/ryosukeeeee_'>@ryosukeeeee_</a> on Oct 7, 2019"
 
 # 開発中はfalseにするとスライドをブラウザでみるときにデベロップメントメニューが使えるようになる（はずだが動かない）
 # 完成して公開するときはtrueにする
