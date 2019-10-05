@@ -31,8 +31,8 @@
 > 「集中力を削ぐものを、心理学では『ディストラクター』といいます。視界の隅で動くものなど、目に入ってくるものが最も人間の注意力を奪うのですが、工事現場の騒音など、耳から入ってくるものもディストラクターの一種だと考えることができます」
 @snapend
 
-@snap[south-east text-03]
-[集中力の高め方を心理学者が伝授「ディストラクター」をなくすこと](https://news.livedoor.com/article/detail/10669129/)
+@snap[south-east text-02]
+cited from [集中力の高め方を心理学者が伝授「ディストラクター」をなくすこと](https://news.livedoor.com/article/detail/10669129/)
 @snapend
 
 ---
