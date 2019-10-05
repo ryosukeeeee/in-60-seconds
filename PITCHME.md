@@ -41,6 +41,8 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 Have a good slack life @fa[slack]
 @snapend
 
+---
+
 <!-- 
 
 @title[Customize Slide Layout]
