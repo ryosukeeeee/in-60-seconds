@@ -13,6 +13,13 @@
 
 <!-- 2枚目 -->
 ---
+@snap[center]
+![IMAGE](assets/img/slack_home.png)
+@snapend
+
+
+
+---
 @title[Customize Slide Layout]
 
 @snap[west span-50]
