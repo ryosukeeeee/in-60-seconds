@@ -32,7 +32,9 @@
 
 ---
 
+@snap[center text-center text-20]
 🤔
+@snapend
 
 
 <!-- 5枚目 -->
