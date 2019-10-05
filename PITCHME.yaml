@@ -7,7 +7,7 @@
 #
 theme : template
 
-theme-background : [ "linear_gradient(180deg, white 80%, black 20%" ]
+theme-background : [ "linear_gradient(180deg, white 85%, black 15%" ]
 theme-headline   : [ "Raleway", "#5289F7", "none" ]
 theme-byline     : [ "Raleway", "#111111", "none" ]
 theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
@@ -45,7 +45,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "published by @ryosukeeeee on Oct 7, 2019"
 
 #
 # Published Setting
