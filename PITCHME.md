@@ -60,6 +60,48 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 ![FLOW](assets/img/all_times_usecase.png)
 @snapend
 
+<!-- 7-1 -->
++++
+
+@snap[center text-center span-100]
+![FLOW](assets/img/all_times_usecase-1.png)
+@snapend
+
+<!-- 7-2 -->
++++
+
+@snap[center text-center span-100]
+![FLOW](assets/img/all_times_usecase-2.png)
+@snapend
+
+<!-- 7-3 -->
++++
+
+@snap[center text-center span-100]
+![FLOW](assets/img/all_times_usecase-3.png)
+@snapend
+
+<!-- 7-4 -->
++++
+
+@snap[center text-center span-100]
+![FLOW](assets/img/all_times_usecase-4.png)
+@snapend
+
+<!-- 7-5 -->
++++
+
+@snap[center text-center span-100]
+![FLOW](assets/img/all_times_usecase-5.png)
+@snapend
+
+<!-- 7-6 -->
++++
+
+@snap[center text-center span-100]
+![FLOW](assets/img/all_times_usecase-6.png)
+@snapend
+
 ---
 @title[feature work]
 
