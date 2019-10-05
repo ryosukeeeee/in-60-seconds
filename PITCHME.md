@@ -7,7 +7,7 @@
 ### きっかけ
 @snapend
 
-@snap[center span-50]
+@snap[center]
 @fa[slack fa-2x]に#timesが多すぎる
 @snapend
 
