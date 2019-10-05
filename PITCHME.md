@@ -32,7 +32,7 @@
 
 ---
 
-@snap[center text-center text-20]
+@snap[center text-center text-40]
 🤔
 @snapend
 
