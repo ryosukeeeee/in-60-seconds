@@ -29,12 +29,8 @@ theme-override: assets/css/PITCHME.css
 # Doc: https://gitpitch.com/docs/settings/layout
 #
 layout : center
-
 footnote : "published by <a href='https://twitter.com/ryosukeeeee_'>@ryosukeeeee_</a> on Oct 7, 2019"
 
-#
-# Published Setting
-# Doc: https://gitpitch.com/docs/settings/published
 #
 # 開発中はfalseにするとスライドをブラウザでみるときにデベロップメントメニューが使えるようになる
 # 完成して公開するときはtrueにする
