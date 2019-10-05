@@ -23,7 +23,7 @@
 
 @img[span-100](assets/img/slack_home-original-2.png)
 
-<!-- 4枚目 -->
+<!-- 5枚目 -->
 ---
 @title[ディストラクタ]
 
@@ -37,6 +37,11 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 
 ---
 
+@snap[center text-18]
+Have a good slack life @fa[slack]
+@snapend
+
+<!-- 
 
 @title[Customize Slide Layout]
 
@@ -96,11 +101,6 @@ REFERENCES "forum" ("id");
 @[8-9, zoom-12](This means no more switching between your slide deck and IDE on stage.)
 @snapend
 
----
-
-@snap[center text-18]
-Have a good slack life
-@snapend
 
 ---?image=assets/img/presenter.jpg
 
@@ -110,4 +110,4 @@ Have a good slack life
 
 @snap[south span-100 text-06]
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+@snapend -->
