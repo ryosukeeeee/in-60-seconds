@@ -1,13 +1,13 @@
+<!-- タイトルスライド -->
 # Slackアプリ All Timesについて
 
+<!-- 1枚目 -->
 ---
-
 @snap[north span-40 h3-black]
 ### きっかけ
 @snapend
 
-
-
+<!-- 2枚目 -->
 ---
 @title[Customize Slide Layout]
 
