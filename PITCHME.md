@@ -15,13 +15,13 @@
 ---
 @title[Slackスクリーンショット]
 
-@img[span-70 position_center](assets/img/slack_home-original.png)
+@img[span-50 position_center](assets/img/slack_home-original.png)
 
 <!-- 4枚目 -->
 +++
 @title[Slackスクリーンショット]
 
-@img[span-100](assets/img/slack_home-original-2.png)
+@img[span-50](assets/img/slack_home-original-2.png)
 
 <!-- 5枚目 -->
 ---?color=white
