@@ -96,6 +96,11 @@ REFERENCES "forum" ("id");
 @[8-9, zoom-12](This means no more switching between your slide deck and IDE on stage.)
 @snapend
 
+---
+
+@snap[center text-15]
+Have a good slack life
+@snapend
 
 ---?image=assets/img/presenter.jpg
 
