@@ -98,7 +98,7 @@ REFERENCES "forum" ("id");
 
 ---
 
-@snap[center text-15]
+@snap[center text-18]
 Have a good slack life
 @snapend
 
