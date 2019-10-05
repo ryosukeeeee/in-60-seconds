@@ -36,7 +36,7 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 @snapend
 
 <!-- 6枚目 -->
----?color=linear-gradient(90deg, white 30%, #484848 75%)
+---?color=linear-gradient(90deg, white 30%, #484848 70%)
 @title[All Timesの紹介]
 
 @snap[west span-80]
