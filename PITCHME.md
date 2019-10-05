@@ -42,8 +42,8 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 まだ実装されていない機能
 @snapend
 
-@snap[west span-55]
-@ul[list-spaced-bullets text-white text-09]
+@snap[west span-100]
+@ul[list-spaced-bullets text-09]
 - ファイルアップロードイベントの転送
 - メッセージ内のURLを展開
 @ulend
