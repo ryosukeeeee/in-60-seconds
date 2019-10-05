@@ -1,7 +1,7 @@
-<!-- タイトルスライド -->
+<!-- 1枚目：タイトルスライド -->
 # Slackアプリ All Timesについて
 
-<!-- 1枚目 -->
+<!-- 2枚目 -->
 ---
 @snap[north span-40 h3-black]
 ### きっかけ
@@ -11,14 +11,11 @@
 @fa[slack fa-2x]に#timesが多すぎる
 @snapend
 
-<!-- 2枚目 -->
+<!-- 3枚目 -->
 ---
 @title[Slackスクリーンショット]
 
-@snap[center]
 ![IMAGE](assets/img/slack_home.png)
-@snapend
-
 
 ---
 @title[Customize Slide Layout]
