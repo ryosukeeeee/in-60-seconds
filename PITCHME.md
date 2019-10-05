@@ -42,6 +42,10 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 ### All Times
 @snapend
 
+@snap[span-30]
+![ICON](assets/img/all_times_icon.png)
+@snapend
+
 @snap[east span-50]
 - ユーザのアイコンで表示
 - スレッド形式
