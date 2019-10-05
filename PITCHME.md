@@ -139,6 +139,19 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 @snapend
 
 ---
+@title[EventHandlerの処理]
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-09]
+- チャンネルIDからチェンネル名（ex. times_bengal_cat）を取得
+- ユーザーのIDからユーザー名とアイコンのURLを取得
+- #all_timesに当日の投稿がすでにあるか調べる
+- ある→スレッド形式で投稿
+- ない→チャンネル名を投稿し、スレッド形式でメッセージを投稿
+@ulend
+@snapend
+
+---
 
 @title[feature work]
 
