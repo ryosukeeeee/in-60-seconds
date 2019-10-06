@@ -12,8 +12,8 @@ Ryosuke Nakagawa
 @snapend
 
 @snap[center]
-@fa[slack]に#timesが多すぎる
-全部にjoinすると・・・
+@fa[slack]に#timesが多すぎる!
+もし全部にjoinすると・・・
 @snapend
 
 <!-- 3枚目 -->
