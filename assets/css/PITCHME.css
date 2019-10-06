@@ -5,3 +5,7 @@
 .position_center {
   margin: 0 auto;
 }
+
+.border_none {
+  border-style: none;
+}
