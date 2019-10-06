@@ -83,6 +83,9 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 ![ICON](assets/img/all_times_icon.png)
 @snapend
 
+@snap[south span-100 text-06]
+@fa[github]<a href='https://github.com/ryosukeeeee/all_times'>@ryosukeeeee/all_times</a>
+@snapend
 <!-- 9枚目 -->
 ---
 
