@@ -55,6 +55,10 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 ---
 @title[どんな機能がほしいか]
 
+@snap[north]
+### こんな機能がほしい
+@snapend
+
 @snap[west span-100]
 @ul[list-spaced-bullets text-08]
 - チャンネルをブックマークして後でまとめてチェックしたい
