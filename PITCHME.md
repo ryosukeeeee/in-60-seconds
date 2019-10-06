@@ -1,11 +1,9 @@
-<!-- 1枚目：タイトルスライド -->
 # Slackアプリ All Timesについて
 
 @snap[south text-center text-08]
 Ryosuke Nakagawa
 @snapend
 
-<!-- 2枚目 -->
 ---
 @snap[north span-40]
 ### きっかけ
@@ -16,23 +14,28 @@ Ryosuke Nakagawa
 もし全部にjoinすると・・・
 @snapend
 
-<!-- 3枚目 -->
 ---
 @title[Slackスクリーンショット]
 
 @img[span-80 position_center](assets/img/slack_home_normal.png)
 
-<!-- 4枚目 -->
 +++
 @title[Slackスクリーンショット]
 
 @img[span-80 position_center](assets/img/slack_home_fruid.png)
 
-<!-- 5枚目 -->
 +++
 @title[Slackスクリーンショット]
 
 @img[span-80 position_center](assets/img/slack_home_fruid_rect.png)
+
+
+---
+@title[exploding head]
+
+@snap[center text-center text-40]
+🤯
+@snapend
 
 <!-- 6枚目 -->
 ---?color=white
@@ -47,6 +50,18 @@ Ryosuke Nakagawa
 
 @snap[south-east text-03]
 cited from [集中力の高め方を心理学者が伝授「ディストラクター」をなくすこと](https://news.livedoor.com/article/detail/10669129/)
+@snapend
+
+---
+@title[どんな機能がほしいか]
+
+@snap[west span-100]
+@ul[list-spaced-bullets text-08]
+- チャンネルをブックマークして後でまとめてチェックしたい
+- メッセージの投稿者かわかる
+- botのメッセージは拾う必要はない
+- イベント起こったチャンネルだけチェックしたい
+@ulend
 @snapend
 
 <!-- 7枚目 -->
