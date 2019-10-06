@@ -76,19 +76,11 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 @snapend
 
 <!-- 8枚目 -->
----?color=linear-gradient(90deg, white 50%, #D6DBB6 50%)
+---?color=white
 @title[All Timesの紹介]
-<!-- @snap[north-east text-center span-50] -->
-<!-- ### 特徴 -->
-<!-- @snapend -->
 
-@snap[west span-30]
+@snap[center span-50]
 ![ICON](assets/img/all_times_icon.png)
-@snapend
-
-@snap[east span-50]
-- ユーザのアイコンで表示
-- スレッド形式
 @snapend
 
 <!-- 9枚目 -->
