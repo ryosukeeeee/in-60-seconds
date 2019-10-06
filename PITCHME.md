@@ -79,7 +79,7 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 ---?color=white
 @title[All Timesの紹介]
 
-@snap[center span-50 position_center]
+@snap[center span-100 position_center]
 ![ICON](assets/img/all_times_icon.png)
 @snapend
 
