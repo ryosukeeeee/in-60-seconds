@@ -204,7 +204,7 @@ DEMO
 
 @snap[west span-100]
 @ul[list-spaced-bullets text-09]
-- ファイルアップロードイベントの転送
+- ファイルアップロードイベントへの対応
 - メッセージ内のURLを展開
 @ulend
 @snapend
