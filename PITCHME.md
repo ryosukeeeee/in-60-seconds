@@ -94,10 +94,6 @@ DEMO
 ---
 @title[アーキテクチャ]
 
-@snap[north]
-### アーキテクチャ
-@snapend
-
 @snap[center text-center span-100 position_center]
 ![FLOW](assets/img/all_times_usecase.png)
 @snapend
