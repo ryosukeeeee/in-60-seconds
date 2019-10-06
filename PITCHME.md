@@ -38,7 +38,7 @@ Ryosuke Nakagawa
 ---?color=white
 @title[ディストラクタ]
 
-@snap[center text-07 span-100 cite]
+@snap[center text-06 span-100 cite]
 > "「集中力を削ぐものを、心理学では『ディストラクター』といいます。
 > 視界の隅で動くものなど、目に入ってくるものが最も人間の注意力を奪うのですが、
 > 工事現場の騒音など、耳から入ってくるものも
