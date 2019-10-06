@@ -92,7 +92,11 @@ DEMO
 
 <!-- 9枚目 -->
 ---
-@title[フロー図]
+@title[アーキテクチャ]
+
+@snap[north]
+### アーキテクチャ
+@snapend
 
 @snap[center text-center span-100 position_center]
 ![FLOW](assets/img/all_times_usecase.png)
