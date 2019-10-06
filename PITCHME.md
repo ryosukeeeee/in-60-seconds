@@ -56,7 +56,7 @@ cited from [集中力の高め方を心理学者が伝授「ディストラク�
 @title[どんな機能がほしいか]
 
 @snap[north]
-### こんな機能がほしい
+### 要望
 @snapend
 
 @snap[west span-100]
